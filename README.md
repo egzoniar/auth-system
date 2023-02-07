@@ -1,7 +1,3 @@
-# auth-system
-A simple React.js application with JWT authentication workflow, protected routes, and refresh token functionality. This app implements login and register forms, event emitters for sign out, and uses popular technologies like React-Query, TypeScript, React-Router-DOM, Axios, and Tailwind for styling.
-
-
 # Simple React App with JWT Authentication
 
 This is a simple React.js application that implements JWT authentication workflow, protected routes, and refresh token functionality. It includes a login and register form and event emitters for sign out when refresh token fails or returns a 401 status code. The app is built with popular technologies like React-Query, TypeScript, React-Router-DOM, Axios, and Tailwind for styling.
